@@ -1,4 +1,4 @@
-# Study_Django##
+# Study_Django
 <a name="readme-top"></a>
 
 #### Framework
