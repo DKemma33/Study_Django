@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65c2ce2c-303d-4617-9f8d-45789157c4ea" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TVQ8ehqTBMV2kjfFYx2nVkd1S5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kdt_0900_jdh/foreign-us/Foreign_us&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\kdt_0900_jdh\django\workspace\view" />
+      <recent name="C:\kdt_0900_jdh\django\workspace\view\member" />
+      <recent name="C:\kdt_0900_jdh\django\workspace\view\reply" />
+      <recent name="C:\kdt_0900_jdh\django\workspace\view\post" />
+      <recent name="C:\kdt_0900_jdh\django\workspace\view\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runView">
+    <configuration name="runView" type="PythonConfigurationType" factoryName="Python">
+      <module name="view" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\kdt_0900_jdh\django\workspace\view\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (view)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 10000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="Python.DjangoServer" factoryName="Django server">
+      <module name="view" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\kdt_0900_jdh\django\workspace\view\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (view)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="view" type="Python.DjangoServer" factoryName="Django server">
+      <module name="view" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\kdt_0900_jdh\django\workspace\view\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (view)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.run" />
+      <item itemvalue="Django Server.view" />
+      <item itemvalue="Python.runView" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c2ce2c-303d-4617-9f8d-45789157c4ea" name="Changes" comment="" />
+      <created>1691125609631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691125609631</updated>
+      <workItem from="1691125624102" duration="411000" />
+      <workItem from="1691126049235" duration="14000" />
+      <workItem from="1691126076534" duration="8000" />
+      <workItem from="1691126094294" duration="10000" />
+      <workItem from="1691126116165" duration="9264000" />
+      <workItem from="1691366541172" duration="15341000" />
+      <workItem from="1691534839104" duration="3107000" />
+      <workItem from="1691629425195" duration="8000" />
+      <workItem from="1691629454362" duration="11000" />
+      <workItem from="1691630015360" duration="38000" />
+      <workItem from="1691924961047" duration="2228000" />
+      <workItem from="1691928454648" duration="56000" />
+      <workItem from="1691928553641" duration="9000" />
+      <workItem from="1691928574311" duration="27000" />
+      <workItem from="1691931065157" duration="43000" />
+      <workItem from="1691931365043" duration="16000" />
+      <workItem from="1691932258052" duration="14000" />
+      <workItem from="1691932349156" duration="9000" />
+      <workItem from="1691932637201" duration="15000" />
+      <workItem from="1691933040522" duration="21000" />
+      <workItem from="1691933132334" duration="18000" />
+      <workItem from="1691934691071" duration="14000" />
+      <workItem from="1691934838061" duration="47000" />
+      <workItem from="1691935181640" duration="16000" />
+      <workItem from="1691936095498" duration="122000" />
+      <workItem from="1691936259779" duration="13000" />
+      <workItem from="1691976264932" duration="616000" />
+      <workItem from="1691978026692" duration="1981000" />
+      <workItem from="1691999004581" duration="610000" />
+      <workItem from="1692000756303" duration="1450000" />
+      <workItem from="1692068843365" duration="4000" />
+      <workItem from="1692140894159" duration="1168000" />
+      <workItem from="1692159035271" duration="15000" />
+      <workItem from="1692173419277" duration="231000" />
+      <workItem from="1692230303047" duration="245000" />
+      <workItem from="1692239437988" duration="3147000" />
+      <workItem from="1692252491767" duration="2911000" />
+      <workItem from="1692260615566" duration="7000" />
+      <workItem from="1692260811685" duration="562000" />
+      <workItem from="1692261429057" duration="114000" />
+      <workItem from="1692261990830" duration="397000" />
+      <workItem from="1692271003023" duration="28000" />
+      <workItem from="1692271232534" duration="156000" />
+      <workItem from="1692271459340" duration="79000" />
+      <workItem from="1692273151310" duration="193000" />
+      <workItem from="1692274028165" duration="71000" />
+      <workItem from="1692274136845" duration="7000" />
+      <workItem from="1692274276339" duration="4000" />
+      <workItem from="1692282656022" duration="118000" />
+      <workItem from="1692320710863" duration="330000" />
+      <workItem from="1692322147836" duration="210000" />
+      <workItem from="1692322428484" duration="6907000" />
+      <workItem from="1692350464518" duration="1964000" />
+      <workItem from="1692416100893" duration="5966000" />
+      <workItem from="1692522752297" duration="3424000" />
+      <workItem from="1692591118020" duration="9874000" />
+      <workItem from="1692621704691" duration="92000" />
+      <workItem from="1692623187490" duration="605000" />
+      <workItem from="1692684170908" duration="923000" />
+      <workItem from="1692797771709" duration="9279000" />
+      <workItem from="1692860743592" duration="1485000" />
+      <workItem from="1693025736587" duration="661000" />
+      <workItem from="1693273315337" duration="1371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/view$runView.coverage" NAME="runView Coverage Results" MODIFIED="1692322701296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
